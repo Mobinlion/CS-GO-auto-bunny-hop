@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSGO_BHOP", "CSGO_BHOP.vcproj", "{ACEAFD40-B293-48F5-B8FA-B7E6C6ABA891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACEAFD40-B293-48F5-B8FA-B7E6C6ABA891}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ACEAFD40-B293-48F5-B8FA-B7E6C6ABA891}.Debug|Win32.Build.0 = Debug|Win32
+		{ACEAFD40-B293-48F5-B8FA-B7E6C6ABA891}.Release|Win32.ActiveCfg = Release|Win32
+		{ACEAFD40-B293-48F5-B8FA-B7E6C6ABA891}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
